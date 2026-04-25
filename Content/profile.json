@@ -10,8 +10,7 @@
   "Contact": {
     "EMail": "sedrabayan2@gmail.com",
     "Phone": "+1 (206) 966-3127",
-    "Portfolio": "https://www.github.com",
-    "LinkedIn": "https://linkedin.com",
+    "LinkedIn": "https://www.linkedin.com/in/sedrabaian?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     "GitHub": "https://www.github.com"
   },
 
@@ -30,17 +29,17 @@
   },
 
   "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Amazon Review Sentiment Analysis",
+    "Desc": "A data‑driven project using Python (Pandas, Matplotlib, Seaborn) to analyze sentiment across thousands of Amazon reviews..<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/sedrabaian/Amazon-Product-Reviews-Analysis",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
 
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Electricity Access KPI Dashboard",
+    "Desc": "Developed a KPI dashboard to visualize electricity access trends worldwide using Tableau and public data. The project highlights regional disparities and progress toward global energy goals..<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/sedrabaian/electricity-access-kpi-visualization",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
