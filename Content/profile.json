@@ -15,14 +15,14 @@
   },
 
   "Experience": {
-    "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+    "ExperienceText": "Blending experience in sales, insurance, tech, and interpretation to bring a unique perspective to every project.",
     "School": "Seattle Pacific University",
     "Major": "Computer Science",
     "Graduation": "2027",
-    "EducationText": "Use this to add some narrative to your education section",
+    "EducationText": "...",
     "Employment": "American Income Life",
     "Role": "Benefit Advisor",
-    "EmploymentText": "Use this to add some narrative to your employment section",
+    "EmploymentText": "As a Benefit Advisor at American Income Life, I educated clients on various insurance options and comprehensive benefit packages. My role involved helping families secure meaningful coverage tailored to their needs while fostering strong, trust‑based relationships",
     "Skills": ["Java", " Python", " Data Analysis", " Pandas"," Matplotlib"],
     "SkillsText": "Use this to add some narrative to your skills section",
     "Resume": "student-resume.pdf"  
