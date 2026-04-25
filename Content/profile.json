@@ -25,7 +25,7 @@
     "EmploymentText": "Use this to add some narrative to your employment section",
     "Skills": ["Java", " Python", " Data Analysis", " Pandas"," Matplotlib"],
     "SkillsText": "Use this to add some narrative to your skills section",
-    "Resume": "sedra-baian-resume.pdf"  
+    "Resume": "student-resume.pdf"  
   },
 
   "Project1": {
